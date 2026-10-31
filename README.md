@@ -156,7 +156,7 @@
             <h2>Կապ Ինձ Հետ</h2>
             <p>Ցանկանում՞ ես պատվիրել կայք կամ համագործակցել ինձ հետ։ Գրիր ինձ կամ կապ հաստատիր ստորև նշված հասցեով:</p>
             <br>
-            <a href="mailto:your-email@example.com" class="btn">Գրել Ինձ Նամակ</a>
+            <a href=tehmineandreasyan75gmail.com class="btn">Գրել Ինձ Նամակ</a>
         </section>
     </div>
 
